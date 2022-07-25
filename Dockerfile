@@ -1,1 +1,3 @@
-
+FROM httpd
+MAINTAINER nagamani
+EXPOSE 80 
